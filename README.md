@@ -1,1 +1,2 @@
-# simpleton
+# simpleton - a simple WordPress theme
+
